@@ -33,14 +33,8 @@ Hedef Kitle
 * İnovasyon meraklıları
 * 18 - 65 yaş arası kullanıcılar
 
-Product Backlog URL
-[Trello Backlog Board linki buraya eklenecek]
-
 Sprint 1
 
-* **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-
-Sprint 1
 * **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 * **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
@@ -48,8 +42,6 @@ Sprint 1
 * **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
 * **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı kartlar yapılacak işleri (task) gösterirken, mavi kartlar story'leri temsil etmektedir.
 
 * **Daily Scrum**: Günlük toplantılar WhatsApp üzerinden yapılıyor.
 
