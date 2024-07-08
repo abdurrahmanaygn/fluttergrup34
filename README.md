@@ -1,85 +1,78 @@
-# **Takım İsmi**
+**Takım İsmi**
+İnovatif Çözümler
 
-Takım X
+Ürün İle İlgili Bilgiler
 
-# Ürün İle İlgili Bilgiler
+Takım Elemanları
+* Abdülkerim Akan: Product Owner
+* Abdurrahman Aygün: Scrum Master
+* Deniz Koçer: Team Member/Developer
+* Ahsen Gülşah Yaradılmış: Team Member/UI Designer
 
-## Takım Elemanları
+Ürün İsmi
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+-- İdea Hub --
 
-## Ürün İsmi
+Ürün Açıklaması
+* İdea Hub, insanların fikirlerini paylaşabileceği, günlük hayattaki sorunlara çözüm bulabileceği ve yatırımcı arayan girişimcilerin kendilerini tanıtabileceği kapsamlı bir mobil platformdur. Uygulamamız, kullanıcıların yaratıcı fikirlerini paylaşmalarına, topluluk içinde tartışmalarına ve geliştirmelerine olanak sağlar. Ayrıca, girişimciler için "asansör konuşması" özelliği ile projelerini kısa ve etkili bir şekilde sunma imkanı sunar.
 
---Movie App--
+Ürün Özellikleri
+* Fikir paylaşma ve oylama sistemi
+* Sorun-çözüm eşleştirme algoritması
+* Asansör konuşması video yükleme ve izleme özelliği
+* Yatırımcı-girişimci eşleştirme sistemi
+* Canlı tartışma forumları ve etkinlik takvimi
+* Kullanıcı profili ve portföy yönetimi
+* Yapay zeka destekli fikir geliştirme asistanı
 
-## Ürün Açıklaması
+Hedef Kitle
+* Girişimciler
+* Yatırımcılar
+* Öğrenciler
+* Profesyoneller
+* İnovasyon meraklıları
+* 18 - 65 yaş arası kullanıcılar
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+Product Backlog URL
+[Trello Backlog Board linki buraya eklenecek]
 
-## Ürün Özellikleri
+Sprint 1
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+* **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-## Hedef Kitle
+Sprint 1
+* **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+* **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
 
-## Product Backlog URL
+* **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+* **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
----
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı kartlar yapılacak işleri (task) gösterirken, mavi kartlar story'leri temsil etmektedir.
 
-# Sprint 1
+* **Daily Scrum**: Günlük toplantılar WhatsApp üzerinden yapılıyor.
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+* **Sprint board update**: Sprint board screenshotları: 
+[Sprint board screenshot'ları buraya eklenecek]
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+* **Ürün Durumu**: 
+Kullanıcı kayıt ekranı tasarlandı
+Ana sayfa için taslak oluşturuldu
+Ekran görüntüleri:
+[Ürün durumu ile ilgili ekran görüntüleri buraya eklenecek]
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+* **Sprint Review**: 
+Alınan kararlar: Kullanıcı kayıt ve giriş sistemi tamamlandı, fikir paylaşma özelliği geliştirildi. 
+Sprint Review katılımcıları: Tüm Ekip
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
-
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
-
-- **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+* **Sprint Retrospective:**
+  * Takım içi iletişimin artırılması gerektiği vurgulandı.
+  * Daily Scrum toplantılarına daha fazla önem verilmesi kararlaştırıldı.
+  * Teknik zorluklar için pair programming seansları planlandı.
+  * Kullanıcı deneyimi testlerine bir sonraki sprintte başlanması kararlaştırıldı.
 
 -**Diğer Notlar**:
-- N/A
-
----
-
-# Sprint 2
-
-
----
-
-# Sprint 3
-
----
+* Projenin GitHub deposu oluşturuldu ve tüm takım üyeleri davet edildi.
+* UI/UX tasarımları için Figma üzerinde ortak bir çalışma alanı oluşturuldu.
+* Backend mimarisi için Docker containerları hazırlandı.
